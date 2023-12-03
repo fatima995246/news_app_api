@@ -1,0 +1,20 @@
+{
+  "settings": "الأعدادات",
+  "english": "الانجليزية",
+  "arabic": "العربية",
+  "language": "اللغة",
+  "appbartitle": " الاخبار",
+  "categories" : "الفئات",
+  "somethingwrong" : "حدث خطأ ما",
+  "tryagain":"حاول مرة اخرى",
+  "pick" : "اختر الفئة",
+  "ofinterst" :"المهتم بها" ,
+  "sports" : "الرياضة",
+  "general" : "عامة",
+  "health" : "الصحة",
+  "business": "المال والأعمال",
+  "entertainment":"الترفيه",
+  "science": "العلوم",
+  "technology":"التكنولوجيا"
+
+}

@@ -1,0 +1,20 @@
+{
+  "settings": "Settings",
+  "english": "English",
+  "arabic": "Arabic",
+  "language": "Language",
+  "appbartitle": "News App!",
+  "categories" : "Categories",
+  "somethingwrong" : "something went wrong",
+  "tryagain":"try again",
+  "pick" : "Pick your category",
+  "ofinterst" :"of interest" ,
+  "sports" : "Sports",
+  "general" : "General",
+  "health" : "Health",
+  "business": "Business",
+  "entertainment":"Entertainment",
+  "science": "Science",
+  "technology":"Technology"
+
+}
