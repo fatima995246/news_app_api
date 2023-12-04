@@ -6,7 +6,6 @@ import 'package:news_app/home_drawer.dart';
 import 'package:news_app/my_theme.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import '../model/categoryDM.dart';
-import '../custome_search_bar.dart';
 import '../settings/settings_tab.dart';
 import 'custome_search_delegate.dart';
 

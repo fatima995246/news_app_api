@@ -69,26 +69,7 @@ class HomeDrawer extends StatelessWidget {
               ),
             ),
           ),
-          InkWell(
-            onTap: () {
-              onSideMenuItem(HomeDrawer.search);
-            },
-            child: Padding(
-              padding: const EdgeInsets.all(10.0),
-              child: Row(
-                 children: [
-                  Icon(Icons.search),
-                  SizedBox(
-                    width: 10,
-                  ),
-                  Text(
-                    'Search',
-                    style: Theme.of(context).textTheme.titleMedium,
-                  )
-                ],
-              ),
-            ),
-          )
+
         ],
       ),
     );
